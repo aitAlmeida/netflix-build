@@ -27,7 +27,7 @@ Netflix clone with full login authentication and with routing feature
   <h4>Main Page</h4>
 	<p align="center">
   <kbd>
-		<img src="https://github.com/mshahanwaz/netflix-build/blob/master/screenshots/1.jpeg" width=600px style="border: 2px solid black;">
+		<img src="https://github.com/mshahanwaz/netflix-build/blob/master/screenshots/netflix.png" width=600px style="border: 2px solid black;">
 	</kbd>
   </p>
   <hr>
